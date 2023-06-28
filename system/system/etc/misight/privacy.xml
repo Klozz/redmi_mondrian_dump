@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pravicy>
+<Region name="China" locale="zh-CN" continent="" code="156" isoLang="zh" isoCountry="CN" mcc="460" allowPrv="L3" allowDevPrv="L2" allowDevEvent="INFORMATIVE" allowEvent="GENERAL"/>
+
+</Pravicy>
