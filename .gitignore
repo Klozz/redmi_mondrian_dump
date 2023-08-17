@@ -1,0 +1,12 @@
+product/data-app/Gallery_T_CN/Gallery_T_CN.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/app/MiGameService_8450/MiGameService_8450.apk
+product/app/VoiceAssistAndroidT/VoiceAssistAndroidT.apk
+product/app/HybridPlatform/HybridPlatform.apk
+vendor/lib64/libQnnGpu.so
+recovery.img
+modem.img
+system_ext/priv-app/Settings/Settings.apk
+system_ext/apex/com.android.vndk.v30.apex
+boot.img
+bootRE/boot.elf
