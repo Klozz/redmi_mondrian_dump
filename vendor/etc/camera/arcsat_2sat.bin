@@ -1,0 +1,12 @@
+Device = {M11A}
+Version = {1.0.0.0}
+CbSize = {0}
+NumberOfCameras = {2}
+CalibrationType = {0}
+CameraFov = {120, 80.6}
+CameraRatio = {0.6, 1.0}
+MappedFovRatio = {0.0, 0.0}
+ActiveRange1 = {[0, 0, 3264, 2448], [0, 0, 9248, 6944]}
+ActiveRange2 = {[0, 0, 3264, 2448], [0, 0, 9248, 6944]}
+SensorOutSize = {[0, 0, 3264, 2448], [0, 0, 4624, 3472]}
+RotationCorrection = {1, 0}
