@@ -1,0 +1,6 @@
+debug.config.media.video.dolby_vision_suports=true
+ro.product.odm.cert=23013RK75C
+ro.product.odm.marketname=Redmi K60
+ro.vendor.audio.karaoke.enable=true
+ro.vendor.nfc.wallet_fusion=1
+ro.vendor.qti.va_odm.support=1
